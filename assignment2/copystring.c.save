@@ -1,0 +1,11 @@
+#include<stdio.h>
+int main()
+{ 
+   char str[50],str2[];
+  int i,j,count;
+str[]="Hello world!";
+for(i=1;str[i]!='\0';i++)
+{
+count=count+1;
+}
+printf("%d",count);
